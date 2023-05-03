@@ -1,12 +1,7 @@
-## Hi there 👋
+## ShareLink Official
 
-<!--
+The mission of ShareLink project is to turn the word "ShareLink" into a verb instead of a company name. Similar to Google, we want to dominate the way digital users share links across the Internet. 
 
-**Here are some ideas to get you started:**
+### A short introduction - what is your organization all about?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ShareLink is the best tab management project aims at creating a unified hub for link sharing and resource storage. The project empowers the ability to manage active windows on your browser (supports Chrome, Firefox and Edge), smart tab scheduler and a large link sharing community. 
