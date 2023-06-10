@@ -6,4 +6,4 @@ TabHub is the best tab management project aims at creating a unified hub for lin
 - Website: https://www.tabhub.io
 - Docs: https://docs.tabhub.io
 - Blog: https://blog.tabhub.io
-- Contact us: team@tabhub.io
+- Contact us: info@tabhub.io
